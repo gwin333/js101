@@ -1,16 +1,16 @@
 function lvl4exercise1 () {
   // Return the boolean value "true"
-
+  var myBoolean = true
 }
 
 function lvl4exercise2 () {
   // Return the boolean value "false"
-
+  var myBoolean = false
 }
 
 function lvl4exercise3 (bool) {
   // Return the opposite of the input boolean value
-
+  
 }
 
 function lvl4exercise4 (bool1, bool2) {
